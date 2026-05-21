@@ -1,2 +1,3 @@
 # python
-Python Learning
+Python Learning 
+fundamentals
